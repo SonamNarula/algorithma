@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/hero.svg" alt="ALGORITHMA. Recognize the pattern. Understand the logic. Master the problem." width="100%" />
+<img src="docs/screenshots/hero.svg" alt="ALGORITHMA. Recognize the pattern. Understand the logic. Master the problem." width="100%" />
 
 <br />
 
@@ -116,7 +116,7 @@ Log off-by-one errors, boundary traps, and wrong approaches. Convert each one in
 Every problem moves through a status, and the status decides whether it comes back.
 
 <div align="center">
-<img src="docs/assets/loop.svg" alt="Learning loop: attempt, record Solo, Hint or Soln, revisit through the revision queue" width="100%" />
+<img src="docs/screenshots/loop.svg" alt="Learning loop: attempt, record Solo, Hint or Soln, revisit through the revision queue" width="100%" />
 </div>
 
 <br />
@@ -126,7 +126,7 @@ Every problem moves through a status, and the status decides whether it comes ba
 Eight phases, from first principles to interview simulation.
 
 <div align="center">
-<img src="docs/assets/curriculum.svg" alt="70-day curriculum across eight phases" width="100%" />
+<img src="docs/screenshots/curriculum.svg" alt="70-day curriculum across eight phases" width="100%" />
 </div>
 
 <br />
